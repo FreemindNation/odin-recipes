@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first Odin project. It is a recipes document consisting of just HTML code during which i intend on demonstrating all the skills i have learned so far including HTML boilerplate, different HTML elements and so on.
