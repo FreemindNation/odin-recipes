@@ -1,1 +1,2 @@
-This is my first Odin project. It is a recipes document consisting of just HTML code during which i intend on demonstrating all the skills i have learned so far including HTML boilerplate, different HTML elements and so on.
+This is my first Odin project. It is a recipes website consisting of just HTML code(for now) during which i intend on demonstrating all the skills i have learned so far including HTML boilerplate, different HTML elements and so on.
+ I have created a main index page in the main odin recipes directory as well as a recipes directory which includes three different recipes pages all linked to the main index page. 
